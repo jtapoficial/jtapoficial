@@ -7,7 +7,7 @@
 ```js
 const jj = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "Python", "Lua", "C++"],
+  code: ["JavaScript", "TypeScript", "Java", "Python", "Lua", "Php", "C#", "C++"],
   askMeAbout: ["games", "tech", "startups", "coffee"],
   technologies: {
     backEnd: {
@@ -16,8 +16,5 @@ const jj = {
     devOps: ["Docker 🐳", "GitHub Actions"],
     databases: ["MySQL", "MongoDB", "SQLite"]
   },
-  architecture: ["Clean Architecture", "MVC", "REST APIs"],
-  currentProject: "Secret project 🤫",
-  funFact: "I once debugged a problem just by staring at the screen for 30 minutes. It worked."
 }
 
