@@ -6,7 +6,7 @@
 
 ```js
 const jj = {
-  pronouns: "he" | "him",h
+  pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "Java", "Python", "Lua", "Php", "C#", "C++"],
   askMeAbout: ["games", "tech", "startups", "coffee"],
   technologies: {
